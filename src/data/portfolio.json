@@ -1,0 +1,125 @@
+{
+  "about": {
+    "name": "Varshith Gudur",
+    "title": "Data & AI Engineer | Co-founder at Docgen",
+    "description": "I'm a passionate Data & AI Engineer with expertise in building intelligent solutions and modern web applications. With a strong foundation in machine learning, data engineering, and full-stack development, I create innovative applications that solve complex real-world problems.",
+    "image": "/images/Linkedin_profile.jpeg",
+    "resumeUrl": "/resume/Varshith_Gudur_Resume.pdf",
+    "socialLinks": {
+      "github": "https://github.com/varshith-Git",
+      "linkedin": "https://www.linkedin.com/in/varshithg17/",
+      "twitter": "https://x.com/VARSHITH_GUDUR"
+    }
+  },
+  "skills": [
+    {
+      "category": "Data & AI",
+      "technologies": ["Machine Learning", "Deep Learning", "NLP", "Computer Vision", "TensorFlow", "PyTorch", "Scikit-learn", "LLMs", "Generative AI"]
+    },
+    {
+      "category": "Data Engineering",
+      "technologies": ["ETL Pipelines", "Data Warehousing", "Big Data", "Apache Spark", "Airflow", "Kafka", "SQL", "NoSQL"]
+    },
+    {
+      "category": "Backend",
+      "technologies": ["Python", "FastAPI", "Django", "Node.js", "Express", "RESTful APIs", "GraphQL"]
+    },
+    {
+      "category": "Cloud & DevOps",
+      "technologies": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "CI/CD", "Git", "MLOps"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Docgen - AI Document Generation",
+      "description": "An innovative platform that leverages AI to automate document generation, analysis, and processing. Built with advanced NLP models and a scalable cloud architecture.",
+      "technologies": ["Python", "TensorFlow", "NLP", "React", "FastAPI", "AWS"],
+      "image": "/images/projects/docgen-banner.svg",
+      "demoUrl": "https://www.docgen.dev/",
+      "codeUrl": "https://github.com/docgen-ai",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Predictive Analytics Dashboard",
+      "description": "A comprehensive analytics platform that uses machine learning to predict business trends and provide actionable insights from large datasets.",
+      "technologies": ["Python", "Scikit-learn", "Pandas", "React", "D3.js", "Flask"],
+      "image": "/images/projects/analytics-dashboard.svg",
+      "demoUrl": "https://project-demo.com",
+      "codeUrl": "https://github.com/varshith-Git/analytics-dashboard",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Computer Vision Object Detection",
+      "description": "A real-time object detection system using computer vision techniques to identify and track objects in video streams with high accuracy.",
+      "technologies": ["Python", "PyTorch", "OpenCV", "TensorFlow", "YOLO"],
+      "image": "https://via.placeholder.com/600x400?text=Object+Detection",
+      "demoUrl": "https://project-demo.com",
+      "codeUrl": "https://github.com/varshith-Git/cv-object-detection",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "NLP Text Summarization Tool",
+      "description": "An advanced text summarization tool that uses natural language processing to generate concise summaries of long documents while preserving key information.",
+      "technologies": ["Python", "Transformers", "BERT", "Flask", "React"],
+      "image": "https://via.placeholder.com/600x400?text=Text+Summarization",
+      "demoUrl": "https://project-demo.com",
+      "codeUrl": "https://github.com/varshith-Git/nlp-summarizer",
+      "featured": false
+    }
+  ],
+  "experience": [
+    {
+      "company": "Docgen",
+      "position": "Co-founder & CTO",
+      "duration": "2023 - Present",
+      "description": "Leading the development of an innovative document generation platform powered by AI. Responsible for the AI architecture, machine learning models, and overall technical strategy.",
+      "achievements": [
+        "Developed proprietary NLP models for intelligent document processing",
+        "Built scalable AI infrastructure serving thousands of users",
+        "Secured seed funding and grew the technical team from 2 to 8 engineers",
+        "Implemented advanced ML pipelines for document analysis and generation"
+      ]
+    },
+    {
+      "company": "NTT DATA",
+      "position": "Senior Data & AI Engineer",
+      "duration": "2023 - Present",
+      "description": "Led the development of data-driven solutions and AI applications for enterprise clients across finance, healthcare, and retail sectors.",
+      "achievements": [
+        "Architected and deployed ML models improving prediction accuracy by 35%",
+        "Built end-to-end data pipelines processing 5TB+ of data daily",
+        "Implemented computer vision solutions reducing manual inspection time by 70%",
+        "Mentored junior data scientists and engineers on best practices"
+      ]
+    },
+    {
+      "company": "NTT DATA",
+      "position": "Data Engineer",
+      "duration": "2022 - 2023",
+      "description": "Developed and maintained data infrastructure and analytics solutions for clients across various industries.",
+      "achievements": [
+        "Built ETL pipelines and data warehousing solutions for business intelligence",
+        "Implemented real-time analytics dashboards using streaming data",
+        "Optimized database queries reducing processing time by 60%"
+      ]
+    }
+  ],
+  "education": [
+
+    {
+      "institution": "Anna University",
+      "degree": "Bachelor of Engineering in Computer Science",
+      "duration": "2018 - 2022",
+      "description": "Graduated with Bachelor's degree in Computer Science, GPA 9.0/10.0"
+    }
+  ],
+  "contact": {
+    "email": "varshith.gudur17@gmail.com",
+    "phone": "+91 9381924190",
+    "location": "Bangalore, India"
+  }
+}
