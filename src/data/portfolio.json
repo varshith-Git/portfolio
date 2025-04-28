@@ -39,36 +39,6 @@
       "demoUrl": "https://www.docgen.dev/",
       "codeUrl": "https://github.com/docgen-ai",
       "featured": true
-    },
-    {
-      "id": 2,
-      "title": "Predictive Analytics Dashboard",
-      "description": "A comprehensive analytics platform that uses machine learning to predict business trends and provide actionable insights from large datasets.",
-      "technologies": ["Python", "Scikit-learn", "Pandas", "React", "D3.js", "Flask"],
-      "image": "/images/projects/analytics-dashboard.svg",
-      "demoUrl": "https://project-demo.com",
-      "codeUrl": "https://github.com/varshith-Git/analytics-dashboard",
-      "featured": true
-    },
-    {
-      "id": 3,
-      "title": "Computer Vision Object Detection",
-      "description": "A real-time object detection system using computer vision techniques to identify and track objects in video streams with high accuracy.",
-      "technologies": ["Python", "PyTorch", "OpenCV", "TensorFlow", "YOLO"],
-      "image": "https://via.placeholder.com/600x400?text=Object+Detection",
-      "demoUrl": "https://project-demo.com",
-      "codeUrl": "https://github.com/varshith-Git/cv-object-detection",
-      "featured": false
-    },
-    {
-      "id": 4,
-      "title": "NLP Text Summarization Tool",
-      "description": "An advanced text summarization tool that uses natural language processing to generate concise summaries of long documents while preserving key information.",
-      "technologies": ["Python", "Transformers", "BERT", "Flask", "React"],
-      "image": "https://via.placeholder.com/600x400?text=Text+Summarization",
-      "demoUrl": "https://project-demo.com",
-      "codeUrl": "https://github.com/varshith-Git/nlp-summarizer",
-      "featured": false
     }
   ],
   "experience": [
