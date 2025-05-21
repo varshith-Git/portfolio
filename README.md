@@ -3,6 +3,7 @@
 ![Portfolio Preview](public/images/portfolio-preview.png)
 
 A modern, responsive portfolio website showcasing my skills, projects, and professional experience as a Data & AI Engineer. Built with React, TypeScript, and Vite.
+If you like the project fork the project and follow me 
 
 ## 🌟 Live Demo
 
